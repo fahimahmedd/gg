@@ -1,0 +1,136 @@
+.detail{
+    padding: 80px 0;
+  .detail_wrapper{
+      h4{
+        font-size:26px ;
+        color: $black;
+        font-weight: 500;
+        line-height: 38px;
+        span{
+            color: $primaryColor;
+            font-size: 17px;
+            padding-left: 10px;
+        }
+      }
+      .detail_item{
+          height: 500px;
+          width: 100%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          border-radius: 10px;
+          img{
+              max-width: 100%;
+              max-height: 100%;
+              border-radius: 10px;
+              margin: 0 0 0 auto;
+          }
+      }
+      .cartBox{
+          width: 80%;
+          background-color: $white;
+          border-radius: 3px;
+          box-shadow: 1px 1.332px 4px 2px #7c7c7c4d;
+          padding:15px 15px 32px 15px;
+          h4{
+              font-size: 20px;
+              color: $white;
+              font-weight: 500;
+              background-color: $primaryColor;
+              padding: 10px 0;
+              text-align: center;
+          }
+          .price{
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              padding-top: 20px;
+            h5{
+                font-size: 19px;
+                color: $text;
+                font-weight: 400; 
+                position: relative;
+                display: inline-block;
+                &::after{
+                    position: absolute;
+                    content: '';
+                    top: 50%;
+                    left: 50%;
+                    height: 2px;
+                    width: 100%;
+                    background-color: $primaryColor;
+                    transform: translate(-50%, -50%);
+                }
+            }
+            h6{
+                padding: 0 10px;
+                font-size: 23px;
+                color: $black;
+                font-weight: 600; 
+            }
+          }
+          .quantity{
+              margin-top: 20px;
+              h5{
+                font-size: 20px;
+                color: #333;
+                font-weight: 500;
+                padding-left: 5px;
+                padding-bottom: 15px;
+              }
+              .counter{
+                  display: flex;
+                  align-items: center !important;
+                  justify-content: center;
+                .decrementer {
+                    width: 100px !important;
+                    height: 50px !important;
+                    border-radius: 0px !important;
+                    font-size: 35px !important;
+                    background-color: #313743 !important;
+                    border: 1px solid transparent !important;
+                    &:hover{
+                        background-color: $black !important;
+                    }
+                }
+                .number-input{
+                    width: 300px !important;
+                    height: 50px;
+                    border-color:rgb(187, 185, 185) !important;
+              }
+              .incrementer {
+                width: 100px !important;
+                height: 50px !important;
+                border-radius: 0px !important;
+                font-size: 32px !important;
+                border: 1px solid transparent !important;
+                background-color: #313743 !important;
+                &:hover{
+                    background-color: $black !important;
+                }
+            }
+              }
+          }
+          .cartBtn{
+              padding-top: 50px;
+              text-align: center;
+              a{
+                padding: 11px 35px;
+                background-color: $primaryColor;
+                font-size: 18px;
+                font-weight: 500;
+                color: $white;
+                border-radius: 5px;
+                &:hover{
+                    background-color: $black;
+                }
+              }
+          }
+      }
+      p{
+          font-size: 15px;
+          color: $text;
+          padding-top: 35px;
+      }
+  }
+}

@@ -1,0 +1,529 @@
+@media (min-width: 280px) and (max-width: 319.98px){  
+    .header .top .header_top {
+      display: none;
+    }
+.navbar_middle {
+    display: none;
+}
+.navbar_right {
+    display: none;
+}   
+ 
+.header .NavBarHeader .navItems .navbar {
+	display: list-item;
+    text-decoration: none;
+    padding: 15px 0px;
+}
+
+.header .NavBarHeader .navItems .navbar .navbar_left .searchBar {
+	width: 100%;
+}
+
+.MobHeader .mobNav {
+	padding: 10px 5px;
+}
+
+
+
+/* banner */
+.banner .banner_wrapper .banner_slider .banner_item img {
+	height: fit-content;
+}
+/* header */
+.section_header h2 {
+	font-size: 28px;
+}
+.service .service_wrapper .service_wrap .serviceImg img {
+	width: 100px;
+	margin: 0 auto;
+}
+.service {
+	padding: 40px 0;
+}
+.service .service_wrapper {
+	padding-top: 20px;
+}
+.service .service_wrapper h5 a {
+	font-size: 15px;
+}
+/* client */
+.client .client_wrapper h5 a {
+	font-size: 15px;
+}
+.client {
+	padding: 5px 0 0px 0;
+}
+.client .client_wrapper {
+	padding-top: 10px;
+}
+.client .client_wrapper .client_wrap {
+	padding: 25px 5px 10px 5px;
+}
+.client .client_wrapper .client_wrap h6 {
+	padding: 0px 0px;
+	font-size: 11px;
+}
+/* Contact */
+.contact .contact_wrapper .contect_info .qrscanner img {
+	width: 130px;
+}
+.contact .contact_wrapper .contect_info {
+	padding: 59px 15px;
+}
+.contact .contact_wrapper .contect_info ul li span i {
+	height: 40px;
+	width: 40px;
+	line-height: 40px;
+	font-size: 18px;
+}
+.contact .contact_wrapper .contect_info ul li a {
+	font-size: 14px;
+	line-height: 28px;
+}
+.form_wrapper {
+	margin: 10px 5px;
+}
+.contact {
+	padding-bottom: 50px;
+}
+.footer .footer_wrapper .paymentMethod img {
+	width: 100%;
+	height: 35px;
+}
+.footer .footer_wrapper ul li a {
+	font-size: 14px;
+	color: #e4e1e1;
+}
+.footer .footer_wrapper .paymentMethod {
+	padding: 10px 10px;
+	width: 70px;
+}
+.footer .footer_wrapper h3 {
+	padding: 10px 0;
+	font-size: 18px;
+	line-height: 28px;
+}
+.margin_none{
+	margin: 0 0 22px 0 !important;
+}
+.contact .contact_wrapper .contect_info .form_wrapper .form_control {
+	width:100% !important;
+}
+/* Offcan */
+.offcanvas-end {
+	width: 230px;
+}
+
+/* SUbPages sections */
+.client .client_wrapper .client_wrap h4 {
+	font-size: 16px;
+}
+.client .client_wrapper .client_wrap h6 {
+	padding: 0 3px;
+	font-size: 12px;
+}
+.graphic .graphic_wrapper .crad_wrap .card_info {
+	padding: 20px 10px 20px 10px;
+}
+
+.detail {
+	padding: 32px 0;
+}
+
+.detail .detail_wrapper h4 {
+	font-size: 22px;
+	line-height: 33px;
+}
+.detail .detail_wrapper .detail_item {
+	height: 300px;
+}
+.detail .detail_wrapper .detail_item img {
+	max-width: 100%;
+	max-height: 100%;
+	border-radius: 10px;
+	margin: 0 auto;
+}
+.detail .detail_wrapper .cartBox {
+	width: 100%;
+	margin: 35px auto;
+}
+.information {
+	padding: 50px 0;
+}
+
+.information .info_wrapper h4 {
+	font-size: 24px;
+	line-height: 37px;
+}
+
+.information .info_wrapper ul li {
+	font-size: 16px;
+	color: #ef3239;
+	font-weight: 400;
+	line-height: 28px;
+	padding-bottom: 16px;
+}
+
+.detail .detail_wrapper .cartBox .quantity .counter .number-input {
+	width: 100% !important;
+}
+
+.detail .detail_wrapper p {
+	padding-top: 0px;
+}
+.service .service_wrapper .service_wrap .serviceImg img {
+	width: 75px;
+}
+.service .service_wrapper .service_wrap h3 {
+	color: #000;
+	padding-top: 20px;
+	font-size: 18px;
+}
+
+.service .service_wrapper .service_wrap {
+	padding: 30px 10px 25px 10px;
+	margin: 10px;
+}
+.information .info_wrapper ul {
+	padding-top: 25px;
+	padding-left: 0px;
+}
+
+
+}
+
+
+@media (min-width: 320px) and (max-width: 479.98px){  
+    .header .top .header_top {
+      display: none;
+    }
+.navbar_middle {
+    display: none;
+}
+.navbar_right {
+    display: none;
+}   
+ 
+.header .NavBarHeader .navItems .navbar {
+	display: list-item;
+    text-decoration: none;
+    padding: 15px 0px;
+}
+
+.header .NavBarHeader .navItems .navbar .navbar_left .searchBar {
+	width: 100%;
+}
+
+.MobHeader .mobNav {
+	padding: 10px 5px;
+}
+
+
+
+/* banner */
+.banner .banner_wrapper .banner_slider .banner_item img {
+	height: fit-content;
+}
+/* header */
+.section_header h2 {
+	font-size: 28px;
+}
+.service .service_wrapper .service_wrap .serviceImg img {
+	width: 100px;
+	margin: 0 auto;
+}
+.service {
+	padding: 40px 0;
+}
+.service .service_wrapper {
+	padding-top: 20px;
+}
+.service .service_wrapper h5 a {
+	font-size: 15px;
+}
+/* client */
+.client .client_wrapper h5 a {
+	font-size: 15px;
+}
+.client {
+	padding: 5px 0 0px 0;
+}
+.client .client_wrapper {
+	padding-top: 10px;
+}
+.client .client_wrapper .client_wrap {
+	padding: 25px 5px 10px 5px;
+}
+.client .client_wrapper .client_wrap h6 {
+	padding: 0px 0px;
+	font-size: 11px;
+}
+/* Contact */
+.contact .contact_wrapper .contect_info .qrscanner img {
+	width: 130px;
+}
+.contact .contact_wrapper .contect_info {
+	padding: 59px 15px;
+}
+.contact .contact_wrapper .contect_info ul li span i {
+	height: 40px;
+	width: 40px;
+	line-height: 40px;
+	font-size: 18px;
+}
+.contact .contact_wrapper .contect_info ul li a {
+	font-size: 14px;
+	line-height: 28px;
+}
+.form_wrapper {
+	margin: 10px 5px;
+}
+.contact {
+	padding-bottom: 50px;
+}
+.footer .footer_wrapper .paymentMethod img {
+	width: 100%;
+	height: 35px;
+}
+.footer .footer_wrapper ul li a {
+	font-size: 14px;
+	color: #e4e1e1;
+}
+.footer .footer_wrapper .paymentMethod {
+	padding: 10px 10px;
+	width: 70px;
+}
+.footer .footer_wrapper h3 {
+	padding: 10px 0;
+	font-size: 18px;
+	line-height: 28px;
+}
+.margin_none{
+	margin: 0 0 22px 0 !important;
+}
+.contact .contact_wrapper .contect_info .form_wrapper .form_control {
+	width:100% !important;
+}
+/* Offcan */
+.offcanvas-end {
+	width: 230px;
+}
+
+/* SUbPages sections */
+.client .client_wrapper .client_wrap h4 {
+	font-size: 16px;
+}
+.client .client_wrapper .client_wrap h6 {
+	padding: 0 3px;
+	font-size: 12px;
+}
+.graphic .graphic_wrapper .crad_wrap .card_info {
+	padding: 20px 10px 20px 10px;
+}
+
+.detail {
+	padding: 32px 0;
+}
+
+.detail .detail_wrapper h4 {
+	font-size: 22px;
+	line-height: 33px;
+}
+.detail .detail_wrapper .detail_item {
+	height: 300px;
+}
+.detail .detail_wrapper .detail_item img {
+	max-width: 100%;
+	max-height: 100%;
+	border-radius: 10px;
+	margin: 0 auto;
+}
+.detail .detail_wrapper .cartBox {
+	width: 100%;
+	margin: 35px auto;
+}
+.information {
+	padding: 50px 0;
+}
+
+.information .info_wrapper h4 {
+	font-size: 24px;
+	line-height: 37px;
+}
+
+.information .info_wrapper ul li {
+	font-size: 16px;
+	color: #ef3239;
+	font-weight: 400;
+	line-height: 28px;
+	padding-bottom: 16px;
+}
+
+.detail .detail_wrapper .cartBox .quantity .counter .number-input {
+	width: 100% !important;
+}
+
+.detail .detail_wrapper p {
+	padding-top: 0px;
+}
+.service .service_wrapper .service_wrap .serviceImg img {
+	width: 75px;
+}
+.service .service_wrapper .service_wrap h3 {
+	color: #000;
+	padding-top: 20px;
+	font-size: 18px;
+}
+
+.service .service_wrapper .service_wrap {
+	padding: 30px 10px 25px 10px;
+	margin: 10px;
+}
+.information .info_wrapper ul {
+	padding-top: 25px;
+	padding-left: 0px;
+}
+
+
+}
+
+
+@media (min-width: 480px) and (max-width: 575.98px){  
+    .header .top .header_top {
+      display: none;
+    }
+.navbar_middle {
+    display: none;
+}
+.navbar_right {
+    display: none;
+}   
+ 
+.header .NavBarHeader .navItems .navbar {
+	display: list-item;
+    text-decoration: none;
+    padding: 15px 0px;
+}
+
+.header .NavBarHeader .navItems .navbar .navbar_left .searchBar {
+	width: 100%;
+}
+
+.MobHeader .mobNav {
+	padding: 10px 5px;
+}
+
+
+
+/* banner */
+.banner .banner_wrapper .banner_slider .banner_item img {
+	height: fit-content;
+}
+/* header */
+.section_header h2 {
+	font-size: 28px;
+}
+
+.service {
+	padding: 40px 0;
+}
+.service .service_wrapper {
+	padding-top: 10px;
+}
+.service .service_wrapper h5 a {
+	font-size: 15px;
+}
+/* client */
+.client .client_wrapper h5 a {
+	font-size: 15px;
+}
+.client {
+	padding: 5px 0 0px 0;
+}
+
+/* Contact */
+.contact .contact_wrapper .contect_info .qrscanner img {
+	width: 130px;
+}
+
+.contact {
+	padding-bottom: 50px;
+}
+.footer .footer_wrapper .paymentMethod img {
+	width: 100%;
+	height: 35px;
+}
+.footer .footer_wrapper ul li a {
+	font-size: 14px;
+	color: #e4e1e1;
+}
+
+.footer .footer_wrapper h3 {
+	padding: 10px 0;
+}
+.margin_none{
+	margin: 0 0 22px 0 !important;
+}
+
+/* Offcan */
+.offcanvas-end {
+	width: 300px;
+}
+
+/* SUbPages sections */
+.client .client_wrapper .client_wrap h4 {
+	font-size: 16px;
+}
+.client .client_wrapper .client_wrap h6 {
+	padding: 0 3px;
+	font-size: 12px;
+}
+.graphic .graphic_wrapper .crad_wrap .card_info {
+	padding: 20px 10px 20px 10px;
+}
+
+.detail {
+	padding: 32px 0;
+}
+
+.detail .detail_wrapper h4 {
+	font-size: 22px;
+	line-height: 33px;
+}
+.detail .detail_wrapper .detail_item {
+	height: 420px;
+}
+.detail .detail_wrapper .detail_item img {
+	max-width: 100%;
+	max-height: 100%;
+	border-radius: 10px;
+	margin: 0 auto;
+}
+.detail .detail_wrapper .cartBox {
+	width: 90%;
+	margin: 35px auto;
+}
+.information {
+	padding: 50px 0;
+}
+
+.information .info_wrapper h4 {
+	font-size: 24px;
+	line-height: 37px;
+}
+
+.information .info_wrapper ul li {
+	font-size: 16px;
+	color: #ef3239;
+	font-weight: 400;
+	line-height: 28px;
+	padding-bottom: 16px;
+}
+
+
+
+
+
+
+
+}

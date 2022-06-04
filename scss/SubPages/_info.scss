@@ -1,0 +1,49 @@
+.information{
+    padding: 100px 0;
+.info_wrapper{
+    h4{
+        font-size: 30px;
+        font-weight: 600;
+        color: $black;
+        line-height: 42px;
+        span{
+            color: $primaryColor;
+        }
+    }
+    ul{
+        padding-top: 30px;
+        padding-left: 30px;
+        li{
+            font-size:17px ;
+            color: $primaryColor;
+            font-weight: 400;
+            line-height: 24px;
+            padding-bottom: 10px;
+            i{
+            color: $black;
+            padding-right: 5px;
+            }
+            span{
+                color: $black;
+                padding-left: 10px;
+            }
+        }
+    }
+    .info_box{
+        border: 1px solid rgb(180, 180, 180);
+        margin-top: 30px;
+        ul{
+            padding: 30px 20px 20px 20px;
+            li{
+                font-size: 16px;
+                color: $black;
+                font-weight: 500;
+                line-height: 26px;
+                span{
+                 color: $primaryColor;
+                }
+            }
+        }
+    }
+}
+}

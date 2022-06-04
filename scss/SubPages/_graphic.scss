@@ -1,0 +1,82 @@
+.graphic{
+       padding: 80px 0;
+    .graphic_wrapper{
+         .crad_wrap{
+             background-color: $white;
+             box-shadow: 1px 1.332px 4px 2px #7c7c7c4d;
+             border-radius: 5px;
+             margin-bottom: 25px;
+             padding: 10px;
+             &:hover .card_img img{
+                 transform: scale(1.1);
+             }
+               .card_img{
+                   height: 290px !important; 
+                   display: flex;
+                   justify-content: center;
+                   align-items: center;
+                   overflow: hidden;
+                   img{
+                     max-width: 100%; 
+                     max-height: 100%; 
+                   }
+               }
+               .card_info{
+                   padding: 10px 0px 20px 0px;
+                   .infoLeft{
+                      h4{
+                          font-size: 18px;
+                          color: $black;
+                          font-weight: 500; 
+                      }
+                      .cartBtn{
+                          margin-top: 35px;
+                          a{
+                              padding: 8px 18px;
+                              background-color: $primaryColor;
+                              color: $white;
+                              font-size: 15px;
+                              font-weight: 500;
+                              border-radius: 5px;
+                              &:hover{
+                                  background-color: $black;
+                              }
+                          }
+                      }
+                   }
+                   .infoRight{
+
+                    h4{
+                        font-size: 14px;
+                        color: $primaryColor;
+                        font-weight: 500; 
+
+                    }
+                    h5{
+                        font-size: 14px;
+                        color: $text;
+                        font-weight: 400; 
+                        position: relative;
+                        display: inline-block;
+                        &::after{
+                            position: absolute;
+                            content: '';
+                            top: 50%;
+                            left: 50%;
+                            height: 2px;
+                            width: 100%;
+                            background-color: $primaryColor;
+                            transform: translate(-50%, -50%);
+                        }
+                    }
+                    h6{
+                        font-size: 17px;
+                        color: $black;
+                        font-weight: 500; 
+
+                    }
+                   }
+               }
+         }
+    }
+}
